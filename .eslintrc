@@ -1,0 +1,12 @@
+{
+    "extends": "eslint:recommended",
+    "parserOptions": {
+        "sourceType": "script",
+        "ecmaVersion": 5
+    },
+    "env": {
+        "browser": true,
+        "amd": true,
+        "node": true
+    }
+}
